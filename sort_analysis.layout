@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Statistics.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1871" topLine="57" />
+	</File>
+	<File name="Statistics.h" open="1" top="0" tabpos="3">
+		<Cursor position="469" topLine="6" />
+	</File>
+	<File name="arraySort.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="691" topLine="26" />
+	</File>
+	<File name="arraySort.h" open="1" top="0" tabpos="1">
+		<Cursor position="1214" topLine="40" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="68" topLine="0" />
+	</File>
+	<File name="quicksort.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="856" topLine="0" />
+	</File>
+	<File name="quicksort.h" open="1" top="0" tabpos="6">
+		<Cursor position="293" topLine="0" />
+	</File>
+	<File name="selectsort.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="754" topLine="0" />
+	</File>
+	<File name="selectsort.h" open="0" top="0" tabpos="6">
+		<Cursor position="270" topLine="0" />
+	</File>
+	<File name="sorts.cpp" open="1" top="1" tabpos="8">
+		<Cursor position="208" topLine="15" />
+	</File>
+	<File name="sorts.h" open="0" top="0" tabpos="3">
+		<Cursor position="358" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

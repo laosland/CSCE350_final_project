@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1318689472 source:/home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/main.cpp
+	<iostream>
+	"arraySort.h"
+
+1319471361 source:/home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/arraySort.cpp
+	"arraySort.h"
+
+1319241378 /home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/arraySort.h
+	"quicksort.h"
+	"selectsort.h"
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<sys/time.h>
+	<unistd.h>
+	<fstream>
+	"Statistics.h"
+	<limits>
+	<string>
+	<vector>
+
+1319141319 /home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/quicksort.h
+	"sorts.h"
+	<iostream>
+
+1319141585 /home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/sorts.h
+	<sys/time.h>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1319144492 /home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/selectsort.h
+	"sorts.h"
+	<iostream>
+	<vector>
+
+1319149746 source:/home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/quicksort.cpp
+	"quicksort.h"
+
+1319145714 source:/home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/selectsort.cpp
+	"selectsort.h"
+
+1319149614 source:/home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/sorts.cpp
+	"sorts.h"
+
+1319469978 source:/home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/Statistics.cpp
+	"Statistics.h"
+
+1319241436 /home/laosland/Dropbox/School/Current_Classes/CSCE-350_Algorithms/Final_Project/c++/sort_analysis/Statistics.h
+	<math.h>
+	<vector>
+	<iostream>
+

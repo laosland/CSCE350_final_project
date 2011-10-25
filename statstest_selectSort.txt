@@ -1,0 +1,75 @@
+Mean for test 0 is:-nan
+Standard Deviation for test 0 is:-nan
+Variance test 0 is:-nan
+Zvalue for test 0 is:0
+***********************************************************
+Mean for test 1 is:-nan
+Standard Deviation for test 1 is:-nan
+Variance test 1 is:-nan
+Zvalue for test 1 is:0
+***********************************************************
+Mean for test 2 is:-nan
+Standard Deviation for test 2 is:-nan
+Variance test 2 is:-nan
+Zvalue for test 2 is:0
+***********************************************************
+Mean for test 3 is:-nan
+Standard Deviation for test 3 is:-nan
+Variance test 3 is:-nan
+Zvalue for test 3 is:0
+***********************************************************
+Mean for test 4 is:-nan
+Standard Deviation for test 4 is:-nan
+Variance test 4 is:-nan
+Zvalue for test 4 is:0
+***********************************************************
+Mean for test 5 is:-nan
+Standard Deviation for test 5 is:-nan
+Variance test 5 is:-nan
+Zvalue for test 5 is:0
+***********************************************************
+Mean for test 6 is:-nan
+Standard Deviation for test 6 is:-nan
+Variance test 6 is:-nan
+Zvalue for test 6 is:0
+***********************************************************
+Mean for test 7 is:-nan
+Standard Deviation for test 7 is:-nan
+Variance test 7 is:-nan
+Zvalue for test 7 is:0
+***********************************************************
+Mean for test 8 is:-nan
+Standard Deviation for test 8 is:-nan
+Variance test 8 is:-nan
+Zvalue for test 8 is:0
+***********************************************************
+Mean for test 9 is:-nan
+Standard Deviation for test 9 is:-nan
+Variance test 9 is:-nan
+Zvalue for test 9 is:0
+***********************************************************
+Mean for test 10 is:-nan
+Standard Deviation for test 10 is:-nan
+Variance test 10 is:-nan
+Zvalue for test 10 is:0
+***********************************************************
+Mean for test 11 is:-nan
+Standard Deviation for test 11 is:-nan
+Variance test 11 is:-nan
+Zvalue for test 11 is:0
+***********************************************************
+Mean for test 12 is:-nan
+Standard Deviation for test 12 is:-nan
+Variance test 12 is:-nan
+Zvalue for test 12 is:0
+***********************************************************
+Mean for test 13 is:-nan
+Standard Deviation for test 13 is:-nan
+Variance test 13 is:-nan
+Zvalue for test 13 is:0
+***********************************************************
+Mean for test 14 is:-nan
+Standard Deviation for test 14 is:-nan
+Variance test 14 is:-nan
+Zvalue for test 14 is:0
+***********************************************************

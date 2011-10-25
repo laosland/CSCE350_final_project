@@ -1,0 +1,75 @@
+Mean for test 0 is:0.888087
+Standard Deviation for test 0 is:3.50742e-08
+Variance test 0 is:1.2302e-15
+Zvalue for test 0 is:0
+***********************************************************
+Mean for test 1 is:0.878444
+Standard Deviation for test 1 is:-4.44378e-09
+Variance test 1 is:1.97472e-17
+Zvalue for test 1 is:0
+***********************************************************
+Mean for test 2 is:0.859198
+Standard Deviation for test 2 is:-2.69538e-08
+Variance test 2 is:7.26507e-16
+Zvalue for test 2 is:0
+***********************************************************
+Mean for test 3 is:0.856395
+Standard Deviation for test 3 is:2.94234e-08
+Variance test 3 is:8.65736e-16
+Zvalue for test 3 is:0
+***********************************************************
+Mean for test 4 is:0.855718
+Standard Deviation for test 4 is:-9.88633e-08
+Variance test 4 is:9.77395e-15
+Zvalue for test 4 is:0
+***********************************************************
+Mean for test 5 is:0.854528
+Standard Deviation for test 5 is:-1.05428e-07
+Variance test 5 is:1.1115e-14
+Zvalue for test 5 is:0
+***********************************************************
+Mean for test 6 is:0.85831
+Standard Deviation for test 6 is:-7.13601e-08
+Variance test 6 is:5.09226e-15
+Zvalue for test 6 is:0
+***********************************************************
+Mean for test 7 is:0.865037
+Standard Deviation for test 7 is:-8.8763e-08
+Variance test 7 is:7.87887e-15
+Zvalue for test 7 is:0
+***********************************************************
+Mean for test 8 is:0.861789
+Standard Deviation for test 8 is:-5.76663e-08
+Variance test 8 is:3.3254e-15
+Zvalue for test 8 is:0
+***********************************************************
+Mean for test 9 is:0.865977
+Standard Deviation for test 9 is:1.05134e-07
+Variance test 9 is:1.10531e-14
+Zvalue for test 9 is:0
+***********************************************************
+Mean for test 10 is:0.867122
+Standard Deviation for test 10 is:-2.01202e-07
+Variance test 10 is:4.0482e-14
+Zvalue for test 10 is:0
+***********************************************************
+Mean for test 11 is:0.863216
+Standard Deviation for test 11 is:-1.10202e-07
+Variance test 11 is:1.21446e-14
+Zvalue for test 11 is:0
+***********************************************************
+Mean for test 12 is:0.866553
+Standard Deviation for test 12 is:-1.8117e-07
+Variance test 12 is:3.28225e-14
+Zvalue for test 12 is:0
+***********************************************************
+Mean for test 13 is:0.868214
+Standard Deviation for test 13 is:1.93516e-07
+Variance test 13 is:3.74484e-14
+Zvalue for test 13 is:0
+***********************************************************
+Mean for test 14 is:0.86857
+Standard Deviation for test 14 is:2.83348e-08
+Variance test 14 is:8.02863e-16
+Zvalue for test 14 is:0
+***********************************************************
